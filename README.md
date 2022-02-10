@@ -1,4 +1,4 @@
-# Celsius to Fehrenheit
+# ⛈ Celsius to Fehrenheit
 An applcation that I made using [Tkinter](https://docs.python.org/3/library/tkinter.html).
 
 This applcation converts the **Celsius dgrees** to **Fehrenheit dgrees**
